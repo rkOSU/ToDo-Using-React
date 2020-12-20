@@ -1,5 +1,5 @@
 import React from "react";
-import TodoList from "./TodoList";
+
 
 const Form = (props) => {
     const inputTextHandler = (eve) => {
@@ -27,10 +27,10 @@ const Form = (props) => {
                 <i className='fas fa-plus-square'></i>
             </button>
             <div className='select'>
-                <select name='todos' className='filter-todo'>
+                <select onChange={statusHandler} name='todos' className='filter-todo'>
                     <option value='all'>All</option>
                     <option value='completed'>Complelted</option>
-                    <option value='uncomple ted'>Uncompleted</option>
+                    <option value='uncompleted'>Uncompleted</option>
                 </select>
             </div>
         </form>
