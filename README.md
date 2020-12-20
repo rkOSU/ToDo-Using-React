@@ -1,4 +1,4 @@
-#Details:
+# Details:
 This is a simple to do list project which I started working on to familiarize myself with web development using React. It is fully functional as of now, but I am working on making it into a mobile app as the next goal.
 
 
