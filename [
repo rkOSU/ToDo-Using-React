@@ -1,0 +1,13 @@
+added local storage capabilities and fixed filtering
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   .eslintcache
+#	modified:   src/App.js
+#	modified:   src/components/Form.js
+#	modified:   src/components/TodoList.js
+#
