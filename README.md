@@ -1,10 +1,11 @@
-# Details:
+# Details
 This is a simple to do list project which I started working on to familiarize myself with web development using React. It is fully functional as of now, but I am working on making it into a mobile app as the next goal.
 
 ![todo list](img.PNG)
 
-
-
+## Helpful Resources
+DevEd (YouTube Channel)
+https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q
 
 ## Getting Started with Create React App
 
